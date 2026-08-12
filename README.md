@@ -18,7 +18,7 @@ Unsupervised learning project applying KMeans and Hierarchical clustering to dis
 
 | Algorithms | Silhouette Scores | Cluster Sizes |
 |-----------|-----------------|---------------|
-| **KMeans** | **0.4599** ✅ | 53, 50, 47 (balanced) |
+| **KMeans** | **0.4599**  | 53, 50, 47 (balanced) |
 | Hierarchical | 0.4467 | 71, 49, 30 |
 
 - KMeans produced more balanced clusters and a higher silhouette score
